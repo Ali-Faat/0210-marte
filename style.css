@@ -82,11 +82,11 @@ body {
   background-color: #fff;
 }
 .text-container {
-  width: 80%;
-  height: 80%;
-  margin: auto;
-  overflow-y: auto; /* Adiciona scroll vertical quando necessário */
-  display: flex;
+  width: 95%;
+  height: 90%;
+  margin: 10px;
+  overflow-y: auto;
+  display: block;
   justify-content: center;
   align-items: center;
   font-family: Roboto;
