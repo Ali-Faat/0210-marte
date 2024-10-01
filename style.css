@@ -85,6 +85,7 @@ body {
   width: 80%;
   height: 80%;
   margin: auto;
+  overflow-y: auto; /* Adiciona scroll vertical quando necessário */
   display: flex;
   justify-content: center;
   align-items: center;
